@@ -1,0 +1,7 @@
+C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\Definitions.Tankos.h
+C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Source\Tankos\UnitBase.h
+C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Inc\Tankos\UnitBase.generated.h
+D:\Unreal Engeen 4.27.2\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\Unreal Engeen 4.27.2\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Unreal Engeen 4.27.2\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Unreal Engeen 4.27.2\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h

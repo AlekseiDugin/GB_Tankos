@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tankos",
+			"Path": "C:\\Users\\79819\\Documents\\Unreal Projects\\GB_Tankos\\Tankos\\Source\\Tankos.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TankosEditor",
+			"Path": "C:\\Users\\79819\\Documents\\Unreal Projects\\GB_Tankos\\Tankos\\Source\\TankosEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

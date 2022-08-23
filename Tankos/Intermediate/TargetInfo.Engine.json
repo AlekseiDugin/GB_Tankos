@@ -1,0 +1,19 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealHeaderTool",
+			"Path": "D:\\Unreal Engeen 4.27.2\\UE_4.27\\Engine\\Source\\Programs\\UnrealHeaderTool\\UnrealHeaderTool.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UE4Editor",
+			"Path": "D:\\Unreal Engeen 4.27.2\\UE_4.27\\Engine\\Source\\UE4Editor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "UE4Game",
+			"Path": "D:\\Unreal Engeen 4.27.2\\UE_4.27\\Engine\\Source\\UE4Game.Target.cs",
+			"Type": "Game"
+		}
+	]
+}

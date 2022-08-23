@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Tankos-2659.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\TankosEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\PlayerUnit.cpp.obj"
+"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\Tankos.cpp.obj"
+"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\TankosGameModeBase.cpp.obj"
+"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\UnitBase.cpp.obj"
+"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\UnitController.cpp.obj"
+"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\PlayerUnit.gen.cpp.obj"
+"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\Tankos.init.gen.cpp.obj"
+"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\TankosGameModeBase.gen.cpp.obj"
+"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\UnitBase.gen.cpp.obj"
+"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\UnitController.gen.cpp.obj"
+"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\Default.rc2.res"
+/OUT:"C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\UE4Editor-Tankos-2659.lib"

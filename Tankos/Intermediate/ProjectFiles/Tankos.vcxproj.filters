@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Tankos.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{61C5F427-3FC8-4763-BF17-48B269CD000F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tankos.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TankosEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{656000A0-72B1-485E-9028-ACB81BDFA0E1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Tankos">
+      <UniqueIdentifier>{6982CB82-57B1-4F54-8B5E-1B5A95F1863C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tankos\Tankos.Build.cs">
+      <Filter>Source\Tankos</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Tankos\Tankos.cpp">
+      <Filter>Source\Tankos</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tankos\Tankos.h">
+      <Filter>Source\Tankos</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tankos\TankosGameModeBase.cpp">
+      <Filter>Source\Tankos</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tankos\TankosGameModeBase.h">
+      <Filter>Source\Tankos</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

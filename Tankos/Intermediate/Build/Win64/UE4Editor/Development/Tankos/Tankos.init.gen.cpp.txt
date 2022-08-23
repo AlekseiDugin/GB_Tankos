@@ -1,0 +1,3 @@
+C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\Definitions.Tankos.h
+D:\Unreal Engeen 4.27.2\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal Engeen 4.27.2\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

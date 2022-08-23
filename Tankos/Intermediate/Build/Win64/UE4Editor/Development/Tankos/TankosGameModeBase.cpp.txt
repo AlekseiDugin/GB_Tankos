@@ -1,0 +1,7 @@
+C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Development\Tankos\Definitions.Tankos.h
+C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Source\Tankos\TankosGameModeBase.h
+D:\Unreal Engeen 4.27.2\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Unreal Engeen 4.27.2\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Unreal Engeen 4.27.2\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Unreal Engeen 4.27.2\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\79819\Documents\Unreal Projects\GB_Tankos\Tankos\Intermediate\Build\Win64\UE4Editor\Inc\Tankos\TankosGameModeBase.generated.h
